@@ -17,7 +17,7 @@ An interactive Tableau dashboard analyzing hiring trends, salaries, skills, and 
 ## Dashboard Screenshots
 
 ### Job Seeker View
-![Job Seeker Dashboard](screenshots/job_seeker.png)
+![Job Seeker Dashboard](Screenshots\Job_seeker.png)
 
 ### Recruiter View
-![Recruiter Dashboard](screenshots/recruiter.png)
+![Recruiter Dashboard](Screenshots\Recruiter.png)
