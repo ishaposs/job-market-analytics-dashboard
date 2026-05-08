@@ -1,6 +1,6 @@
 # Job Market Analytics Dashboard
 
-An interactive Tableau dashboard analyzing hiring trends, salaries, skills, and job market patterns using real-world job posting datasets.
+Interactive Tableau dashboard analyzing hiring trends, salaries, skills, and job market insights using real-world datasets.
 
 ## Features
 - Recruiter and Job Seeker dashboards
@@ -14,10 +14,7 @@ An interactive Tableau dashboard analyzing hiring trends, salaries, skills, and 
 - Data Visualization
 - Exploratory Data Analysis (EDA)
 
-## Dashboard Screenshots
-
-### Job Seeker View
-![Job Seeker Dashboard](Screenshots\Job_seeker.png)
-
-### Recruiter View
-![Recruiter Dashboard](Screenshots\Recruiter.png)
+## Repository Structure
+- Dashboard/ → Tableau workbook
+- Dataset/ → Job posting dataset
+- Screenshots/ → Dashboard preview images
